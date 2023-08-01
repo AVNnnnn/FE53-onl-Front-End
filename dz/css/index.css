@@ -1,0 +1,35 @@
+header {
+    text-align: center;
+  }
+
+nav{
+    text-align: center;
+}
+
+  div {
+    text-align: center;
+    margin-top: 15px;
+    .text-1 {
+        color: red;
+      }
+      
+      .text-2 {
+        color: blue;
+      }
+      
+      .text-3 {
+        color: green;
+      }
+      
+      .text-4 {
+        color: purple;
+      }
+      
+      .text-5 {
+        color: orange;
+      }
+     
+  }
+
+
+
